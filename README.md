@@ -1,0 +1,1 @@
+"# SatSure-Geospatial-technical-test" 
